@@ -1,0 +1,12 @@
+{
+  "name": "ODAS_MUSICA",
+  "short_name": "ODAS_MUSICA",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
